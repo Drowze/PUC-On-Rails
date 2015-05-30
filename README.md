@@ -1,14 +1,15 @@
-# PUC-On-Rails
+# PUC-On-Rails  
 
-;contato
-become@cm42.com
-Estágio Campinas
+;contato  
+become@cm42.com  
+Estágio Campinas  
 
-;interpreter
-irb 
+;interpreter  
+irb   
 
-;"compile"
-ruby <file>
+;"compile"  
+ruby <file>  
 
-;testing
+;testing  
 rspec presenca.rb --format=doc
+  
